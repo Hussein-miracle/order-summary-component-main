@@ -4,7 +4,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Live Site URL:abdullahi-order-summary-component-main.netlify.app
+- Live Site URL:[live link](abdullahi-order-summary-component-main.netlify.app)
 
 ## My process
 -Think
