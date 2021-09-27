@@ -33,8 +33,7 @@ body{
     width: 100%;
     border-top-right-radius: 12px;
     border-top-left-radius: 12px;
-    background-position: center;
-    background-size: contain;
+    background-size: cover;
     background-repeat:no-repeat;
 }
 
